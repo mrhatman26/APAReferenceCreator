@@ -1,0 +1,4 @@
+Update 1
+-The first working release
+
+Note: For now, the only working reference is book references. If you choose the other options, you will simply get a messagebox.
