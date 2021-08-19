@@ -1,4 +1,8 @@
-Update 1
--The first working release
+Update 2:
+-Added the journal reference screen.
+-Added the website reference screen.
+-Re-written the program for clarity.
+-Added pyperclip code to copy reference to user's clipboard automatically. (Requires pyperclip to be installed using PIP)
 
-Note: For now, the only working reference is book references. If you choose the other options, you will simply get a messagebox.
+Update 1:
+-The first working release
