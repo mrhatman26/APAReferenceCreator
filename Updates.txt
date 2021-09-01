@@ -1,3 +1,6 @@
+Update 3:
+-Changed one of the strings used by one of the labels from "Website Title" to "Webpage Title".
+
 Update 2:
 -Added the journal reference screen.
 -Added the website reference screen.
